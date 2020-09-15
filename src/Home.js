@@ -22,7 +22,7 @@ function Home() {
       </div>
       <div className="home__body">
         <img
-          src="https://pngimg.com/uploads/dragon/dragon_PNG84482.png"
+          src="https://sarahabaza.com/wp-content/uploads/2017/09/eye-of-horus.png"
           alt="dragon image"
         />
 

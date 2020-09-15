@@ -13,7 +13,8 @@
 .home__header a {
   margin-right: 20px;
   text-decoration: inherit;
-  color: rgba(0, 0, 0, 0.87);
+  color: #c6c6c6;
+  color: ;
   font-size: 15px;
 }
 .home__header a:hover {

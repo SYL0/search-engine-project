@@ -1,3 +1,8 @@
+body {
+  background: #272729;
+  color: #c6c6c6;
+}
+
 .search__input {
   display: flex;
   align-items: center;
@@ -15,6 +20,7 @@
   flex: 1;
   padding: 10px 20px;
   border: none;
+  background: none;
 }
 .search__input > input:focus {
   outline-width: 0;
